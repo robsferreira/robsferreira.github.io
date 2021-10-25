@@ -2,7 +2,7 @@
 .skill .progress {
   height: 2px;
   position: relative;
-  width: 90%;
+  width: 25%;
   border-radius: 2px;
   overflow: visible;
 }
