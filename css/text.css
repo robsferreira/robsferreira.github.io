@@ -34,6 +34,11 @@
 }
 
 .section-headline,
+
+p {
+  text-align: justify;
+}
+
 .title div {
   font-weight: 500;
   letter-spacing: 3px;
